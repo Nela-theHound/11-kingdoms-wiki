@@ -1,0 +1,1 @@
+The Magic and Archeological Institute or MAGI for short is an independent research institute created by a high elf
