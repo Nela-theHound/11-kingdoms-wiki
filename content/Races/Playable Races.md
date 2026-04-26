@@ -12,9 +12,9 @@
 	- [[Dwarves]]
 	- [[Molekin]]
 - Elementals
-	- [[Hamadryad]]
-	- [[Sylph]]
-	- [[Salamander]]
+	- [[Hamadryads]]
+	- [[Sylphs]]
+	- [[Salamanders]]
 	- [[Undines]]
 - [[Clockworks]]
 - Undead

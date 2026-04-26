@@ -42,3 +42,20 @@ Dwarfs live under the mountains in elaborate subterranean cities. From them, the
 You either learn one spell or gain Shake it Off
 
 **Shake it off:** You can use an action to heal damage equal to your healing rate and remove one of the following afflictions: fatigued, impaired, or poisoned. Once you have used this talent you cannot use it again until after you complete a rest.
+
+
+---
+### Hatred Table
+
+| d20   | Hated Creature |
+| ----- | -------------- |
+| 1-2   | Ogres          |
+| 3-4   | Troglodytes    |
+| 5-6   | Beastmen       |
+| 7-8   | Orcs           |
+| 9-10  | Goblins        |
+| 11-12 | Elves          |
+| 13-14 | Trolls         |
+| 15-16 | Giants         |
+| 17-18 | Dragons        |
+| 19-20 | Demons         |

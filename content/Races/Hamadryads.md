@@ -1,15 +1,15 @@
-# 
+# Hamadryad
 
 
 ---
 
-# Creating a
+# Creating a Hamadryad
 
 **Starting Attribute Scores:**
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
-|     |     |     |      |
+| 9   | 10  | 9   | 11   |
 
 **Perception** equals your Intellect score 
 
