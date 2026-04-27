@@ -14,13 +14,16 @@
 
 ---
 
-# Level 6
+# Level 6 Assassin
 
 **Characteristics:** Health +3
 
+**Manufacture Poison:** You can use an action and an alchemists kit to create a dose of poison. You must spend at least 1 minute concentrating, during which time you use the kit and special ingredients worth 5 cp. At the end of this time you create one dose of [[poison]]. It retains potency until you complete a rest.
 
 ---
 
 # Level 9 Master
 
-**Characteristics:** Health +
+**Characteristics:** Health +3
+
+**Killer's Eye:** You can use an action on your turn to choose one creature within long range from which you are hidden. Make a Perception challenge roll. On a success, you know where to best attack the target for 1 minute, Until the effect ends, when you attack the target, you make your attack roll with 1 boon and the attack deals 2d6 extra damage.
