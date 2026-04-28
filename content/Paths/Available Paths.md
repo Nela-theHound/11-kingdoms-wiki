@@ -4,7 +4,7 @@
 	- Unrestricted access to traditions and robust access to spells lets magicians wield magic with unrivaled ability. Focus on attaining magical power demands much sacrifice and thus magicians tend to be more fragile than other characters. You need a high Intellect or Will to excel as a magician.
 - [[Priest]]
 	- Unwavering faith and constant devotion to a god or religion grants priests the power to produce miracles through prayer. Hardier than magicians, priests bring the light of their beliefs into the Demon Lord’s darkness, fighting against the horrors that would unravel the world. A high Strength and Will help you excel as a priest.
-- Rogue
+- [[Rogue]]
 	- A path suited to the cunning and quick, rogues use underhanded tactics to achieve their objectives. They are tricksters and scoundrels, adventurers and ne’er-do-wells, possessing an arsenal of tricks to help them overcome almost any obstacle. Rogues develop talents that reflect their techniques, either becoming dangerous killers, dabblers in magic, or charlatans skilled at manipulating others. If you have a high Agility or Intellect, you will do well as a rogue.
 - [[Warrior]]
 	- Trained in the use of weapons and armor, warriors depend on toughness and combat skills to keep them alive. Warriors use a variety of techniques, from picking off their targets from a distance with pistol or longbow or crashing headlong into their enemies’ midst, hacking and slashing as they go. Whatever method they use, warriors are the best at fighting. You need a high Strength or Agility to excel as a warrior.
