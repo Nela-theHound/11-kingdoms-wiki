@@ -1,3 +1,11 @@
+## Berserker
+
+A vital energy for those in the thick of battle, anger enables a combatant to push through extreme pain and injury in order to return it twofold to those who dealt it. For berserkers, anger is more than just an emotion: it is a living thing always raging within them, desperate to be unleashed, always rattling the cage of self-control containing it. So when a berserker’s temper slips—even by a little—all the rage, hatred, and frustration boils out to transform the warrior into a wild killer, a bloodthirsty brute seeking nothing but the utter destruction of any foe who dares to stand before them. 
+
+The transformative power of a berserker’s rage might come from a variety of sources. Many are simply unbalanced, having witnessed so many awful things that they now snap under the pressure. Some have divine or supernatural causes for their anger; for example, dwarf berserkers believe they are taken over by one of their ancestor spirits. Others might be haunted by spirits or, worse, demons, and when they surrender to their anger, the entity haunting or possessing them takes over.
+
+---
+
 # Level 3 Berserker
 
 **Attributes:** Increase 2 by 1

@@ -1,3 +1,12 @@
+## Witch
+
+Witchcraft is as old as humanity. With roots in faerie magic, witchcraft represents the first attempts to understand and tame the magic in the world. Early practitioners blended their efforts to control magic with religious belief, and that mingling remains with its practitioners today. 
+
+Witches command great magical power but do so through religious customs and ceremonies handed down through the centuries. Witches who began their training as priests see their art as an expression of their faith, while those who began as magicians often take a more scholarly approach to their religious practices. 
+
+Witches adopt a peculiar style of dress. Men and women both favor dark garments of homespun, cloaks, sturdy boots for walking, and tall, pointed hats.
+
+---
 # Level 3 Witch
 
 **Attributes:** Increase 2 by 1

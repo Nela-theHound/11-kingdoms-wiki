@@ -1,3 +1,13 @@
+## Sorcerer
+
+Most sorcerers discover their talent for the dangerous tradition by accident, often through some mishap or misfortune. A few, usually renegades or heretics, make a deliberate effort to learn the forbidden art of sorcery in order to wield its dread power. 
+
+Sorcery’s allure comes from the ability to seize even greater amounts of magical energy than most other casters to empower their spells. Spells amplified by sorcery are harder to resist, deal more damage, have greater range, and affect larger areas. However, each time sorcerers tap into this energy, some remains trapped inside their bodies, causing great strain as it tries to escape. If their control slips, the pent-up energy explodes out from them in a destructive wave capable of blowing people and objects apart and leaving craters in the earth. 
+
+Given the technique’s destructive potential, sorcerers are widely feared throughout the Empire, and stories often surface of people finding burning craters and scorched earth. The Cult of the New God and the Wizards of the Tower Arcane sometimes join forces in uneasy alliance to apprehend sorcery’s most egregious practitioners, though such expeditions rarely end well for anyone.
+
+---
+
 # Level 3 Sorcerer
 
 **Attributes:** Increase 2 by 1

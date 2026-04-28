@@ -1,3 +1,13 @@
+## Druid
+
+The druids belong to the Old Faith, one of the oldest religions in the Empire. With origins going back all the way to the first people to inhabit the lands, it is a religion whose roots are secret, created to honor dark, often violent gods, and steeped in strange practices. Druids count themselves friend to any who live in the wild or along its borders, but they guard the secrets of their religion, revealing its mysteries only to those who have undergone the rites that open the way to their enigmatic society. 
+
+Many druids use Nature and Primal magic, though some learn magic from elemental traditions or traditions associated with the faerie, such as Enchantment and Illusion. Although druids venerate all the old gods, a few align themselves with one or two in particular. The Horned King, the Maiden in the Moon, and the Queen of Summer are all common patrons. 
+
+Above all, druids see themselves as guardians of the natural world. They protect the uncut woods, the unspoiled wilds, and the places far beyond civilization’s grasp. They work alongside settlers and pioneers to help them withstand the rigors of the frontier while instilling in them respect for the land and its resources. Druids protect specific sites, marking them with standing stones, or travel the world, lending a hand to those in need.
+
+---
+
 # Level 3 Druid
 
 **Attributes:** Increase 2 by 1

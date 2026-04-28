@@ -1,3 +1,9 @@
+## Artificer
+
+Artificers push against the boundaries of magical research by merging science and magic into something new. Most artificers begin their careers as magicians or engineers, though anyone with a penchant for making mechanical wonders might pursue this path. Artificers learn to use their magic to piece together bits of gear to create useful devices, from armor to weapons, bombs to simple tools. Eventually, they can imbue spells in these devices to create even more powerful gear
+
+---
+
 # Level 3 Artificer
 
 **Attributes:** Increase 2 by 1.

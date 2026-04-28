@@ -1,3 +1,11 @@
+## Paladin
+
+Holy warriors possessed of great courage and determination, paladins take the fight to darkness, waging war eternal against the forces of wickedness and unrest threatening to upset the foundation on which civilization stands. Most paladins hear their gods calling them to take up arms and join the struggle against demons and foul monsters. Others take up the paladin’s life out of a sense of obligation, concern over troubling events, or from a need for vengeance against those who have brought ruin to the world. 
+
+Any religion or faith can produce paladins. Paladins affiliated with the cult of the New God might be temple guardians, valiant crusaders, or even inquisitors. Those with ties to the Old Faith rely on Nature and Primal magic to give them strength against their foes. And there are even some paladins with ties to witchcraft who take on the role as a coven’s protector or a witch’s guardian.
+
+---
+
 # Level 3 Paladin
 
 **Attributes:** Increase 2 by 1

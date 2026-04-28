@@ -1,3 +1,11 @@
+## Oracle
+
+Oracles develop a special connection with supernatural beings, learning to invite them into their bodies to gain a measure of their power and wisdom. These beings might be gods, as many oracles believe, or they might be spirits, the souls of the dead, or something else. Regardless of the true origins of these beings, each possession strains the mind, eroding the oracle’s sanity and mental defenses over time. 
+
+When in the throes of their possession, oracles manifest physical signs of the being within their bodies. The manifestations depend on the entity. Divine possession can cause holy writing to appear on the body or a tongue of fire to burn above the head. More sinister beings cause shadows to dance, horns to grow from the oracle’s head, or a foul stench to fill the air. No matter the form these signs take, they indicate something ancient and powerful resides within the host body for a time.
+
+---
+
 # Level 3 Oracle
 
 **Attributes:** Increase 2 by 1

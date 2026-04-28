@@ -1,3 +1,4 @@
+
 # Level 1 Warrior
 
 **Attributes:** Increase two by 1.

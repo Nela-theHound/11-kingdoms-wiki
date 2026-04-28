@@ -1,3 +1,11 @@
+## Spellbinder
+
+To even the odds against the iron-wielding trolls, the faeries devised the art of spellbinding, a technique that allowed them to channel magical energy into their weapons. Armed with bronze swords limned in eldritch flames and bows capable of loosing empowered arrows, the spellbinders could cut through their enemies’ defenses, driving back or outright destroying their monstrous creations. Ultimately, spellbinding proved to be one of the most significant weapons used in the defeat of the hated trolls and their unspeakable armies. For centuries thereafter, the faeries guarded the secrets of spellbinding from other peoples to ensure their magic could not be used against them. It is not known whether it was revealed by unscrupulous fey or simply discovered by non-fey on their own, but eventually the spellbinding tradition became known by almost all peoples on Ettia. 
+
+The heart of spellbinding lies in a single spell, one which allows casters to imbue their weapons with magical energy that binds the weapon to them and enhances the weapon’s deadliness. Spellbinders can call their empowered weapon to hand with a command, reassemble the weapon from fragments, and use the weapon as their implement to cast other spells. In time, spellbinders learn to channel even more magic through the weapon, making them truly formidable combatants.
+
+---
+
 # Level 3 Spellbinder
 
 **Attributes:** Increase 2 by 1

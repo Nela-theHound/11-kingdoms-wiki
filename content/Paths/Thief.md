@@ -1,3 +1,9 @@
+## Thief
+
+Thieves live by taking things that don’t belong to them. They have the skills they need to do so without being caught in the act. They palm objects, lift items from people they brush up against, thwart locks, foil traps, and discover ways into places ordinarily forbidden to them. Although many thieves steal for selfish reasons or because they feel the need to do so, others develop the techniques to explore tombs, scour ruins for lost relics, or hunt down other thieves and bring them to justice.
+
+---
+
 # Level 3 Thief
 
 **Attributes:** Increase 2 by 1

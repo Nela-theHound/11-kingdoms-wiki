@@ -1,3 +1,11 @@
+## Assassin
+
+Assassins specialize in the art of murder. They learn the best ways to speed their victims to the grave, whether using a strangling cord, poison in a cup, or a knife slid between the ribs. Assassins avoid fair fights, preferring to skulk in the shadows, where they can watch for the perfect time to strike. They might spend weeks or even months gathering information about their victims, learning all they can to overcome their defenses and to attack when their targets are least prepared. 
+
+Most assassins take contracts to eliminate specific targets. Assassins can be freelancers or members of a secret society of professional killers, such as the Black Hand. For them, killing is nothing more than upholding their end of a business transaction. Of course, others come to this path for a variety of reasons. Some are simply cold-blooded killers, spies, or even skilled snipers. A few belong to death cults who see each kill as a prayer offered to the sinister power they serve.
+
+---
+
 # Level 3
 
 **Attributes:** Increase 2 by 1.

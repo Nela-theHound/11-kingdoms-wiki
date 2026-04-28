@@ -1,3 +1,11 @@
+## Fighter
+
+Some of the greatest warriors to ever walk the world were fighters. Unmatched when it comes to combat training, fighters display incredible excellence at arms, and the tenacity to withstand the worst battle conditions. From hard-bitten mercenaries to keen-eyed archers, they include any who devote time and training to the mastery of arms and armor. 
+
+Fighters demonstrate their combat prowess with any weapon they wield, but most favor certain styles over others. Some fighters prefer to hang back and loose missile after missile into their foes, while others roar and leap into the thick of battle, methodically swinging axe and sword upon their foes, as ribbons of blood and severed limbs fling about into the air.
+
+---
+
 # Level 3 Fighter
 
 **Attributes:** Increase 2 by 1

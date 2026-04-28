@@ -1,3 +1,11 @@
+## Warlock
+
+Warlocks, called oath-breakers by some, are counted by wizards as the most despicable of the users of magic, for they come by their power by underhanded means. Rather than study ancient texts or pledge their lives to a god or gods, warlocks steal their magic from anyone and everyone they can, be they dread agents of the underworld or from the minds of rival casters. With the talents and techniques to do so, warlocks take whatever power they want from whoever they wish. 
+
+Most warlocks come from magical backgrounds, having at least dabbled in magic. They include has-been or failed magicians, defrocked priests, or even rogues who managed to learn a few tricks. Whatever their origins, they pursue magical knowledge in fell places, making deals with devils, faeries, or any other being who might bestow on them the knowledge they crave. Not content with the gains they make through their bargains, warlocks eventually learn techniques to take spells from others directly. All they need to do is witness the spell being cast and they can pluck it from the air, causing the original spell to fizzle out and enabling them with the ability to cast it themselves.
+
+---
+
 # Level 3 Warlock
 
 **Attributes:** Increase 2 by 1

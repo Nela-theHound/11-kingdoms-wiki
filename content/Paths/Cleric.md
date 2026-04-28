@@ -1,3 +1,13 @@
+## Cleric
+
+Clerics champion the gods’ interests in the mortal world, and through them mortals speak to the divine. Clerics wear or wield their deities’ symbols to represent their service and to channel magic from their immortal patrons into their spells. Although some believe the quality of the symbol matters, such that symbols made from silver are somehow superior to those carved from wood, it is ever the faith of the bearer and not the material that is important. 
+
+Of all the religions in the Empire and beyond, the Cult of the New God is most likely to produce clerics. Among members of the religion, clerics are leaders of the faith, keepers of the ancient scriptures, and preachers of the prophet’s teachings. These clerics can be more militant than other priests, donning armor and carrying swords, shields, and other weapons of war. They also attach parchment scrolls to their armor that bear sacred writings and prayers to keep themselves safe in the eternal fight against the darkness of the Demon Lord. 
+
+Other religions produce clerics too. Among the orcs, for example, clerics speak with the voice of Grimnir One-Eye, the hoary god of the giant-blooded jotun from whom the orcs were made. Only the Old Faith has yet to produce clerics since the followers of that ancient religion walk a different path.
+
+---
+
 # Level 3
 
 **Attributes:** Increase 2 by 1
