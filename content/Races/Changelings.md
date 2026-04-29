@@ -6,7 +6,7 @@ Faerie create changelings to conceal the absence of children they steal. They co
 
 # Creating a Changeling
 
-**Starting Attribute Scores:**
+**Starting [[Attribute]] Scores:**
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
