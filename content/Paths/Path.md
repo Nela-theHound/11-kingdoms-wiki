@@ -1,3 +1,9 @@
+---
+title: Available Paths
+draft: false
+tags:
+---
+# 
 # Novice Paths
 
 - [[Magician]]

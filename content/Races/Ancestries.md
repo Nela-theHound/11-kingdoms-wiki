@@ -5,7 +5,6 @@
 	- [[Elves]]
 	- [[Changelings]]
 	- [[Goblins]]
-	- [[Hobgoblins]]
 	- [[Fauns]]
 	- [[Pixies]]
 - Deepdwellers
