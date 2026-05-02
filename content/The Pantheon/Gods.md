@@ -7,6 +7,6 @@
 7. [[Sister Moon]]
 8. [[One Eyed God]]
 9. [[Serpent God]]
-10. [[Green God/ The Horned King]]
+10. [[Green God]]/ The Horned King
 11. [[Blood God]]
 12. [[The Forgotten One]]

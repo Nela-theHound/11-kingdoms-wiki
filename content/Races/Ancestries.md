@@ -20,5 +20,5 @@
 	- [[Vampires]]
 	- [[Revenants]]
 - Giants
-	- [[Yotun]]
+	- [[Jotun]]
 	- [[Orcs]]
