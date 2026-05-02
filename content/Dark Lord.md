@@ -1,0 +1,5 @@
+# Dark Lord
+
+The Dark Lord was a brilliant magic user who sought to make himself a god. He tried to attain this power by draining the [[Mana]] from all living beings, which he theorized would turn him into a god if he infused enough mana into himself. In doing this he had to shatter his inner mana vestibule so that the mana he absorbed would suffuse his entire body and so that he could contain a limitless amount of mana. In order to not die with a shattered mana vessel, he transplanted his soul into a diadem so that he was functionally immortal. He hid this diadem away so that even after he was defeated by the 11 heroes they could not truly kill him.
+
+Now a 1000 years after he was defeated, his diadem has been uncovered and his soul has possessed a magic researcher. Now the 11 Kingdoms must unite once again or all life on [[Ettia]] will perish if the Dark Lord is able to accomplish his goal before the 11 [[Artifacts]] are found again.

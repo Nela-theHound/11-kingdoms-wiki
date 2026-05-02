@@ -1,0 +1,3 @@
+# What are the Artifacts
+
+The Artifacts were powerful weapons given to champions of each Kingdom during the first rise of the [[Dark Lord]] that were used to defeat him. Each of the [[Gods]] bestowed a chosen individual with one artifact so that they would not tip the balance of power in favor of one Kingdom or another. After the heroes defeated the Dark Lord, they hid away each artifact, knowing that such power could and would be used as weapons of mass destruction.
