@@ -6,8 +6,6 @@
 - [[Area Effects]]
 - [[Armor]]
 - [[Attack]]
-- [[Attack Roll]]
-- [[Attributes]]
-- [[Automatic Success]]
+- [[Attribute]]
 - [[Awareness]]
 - 

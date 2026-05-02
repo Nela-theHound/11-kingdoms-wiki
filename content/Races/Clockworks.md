@@ -6,7 +6,7 @@ Clockworks are mechanical people made from metal plating, gears, wires, bits of 
 
 # Creating a Clockwork
 
-**Starting Attribute Scores:**
+**Starting [[Attribute]] Scores:**
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
@@ -32,7 +32,7 @@ Clockworks are mechanical people made from metal plating, gears, wires, bits of 
 
 **Mechanical Body** You do not eat, drink, or breathe. You do not age and you cannot be transformed into an undead creature. Your mechanical body makes it impossible for you to swim, so you sink to the bottom when you are submerged in liquid. 
 
-**Repairing Damage** When you are a creature, you heal damage as any other creature. If you are an object, a creature can use an action to start repairing you with a tool kit. The creature must work for at least 4 hours. At the end of this time, it makes an Intellect challenge roll with 1 bane. On a success, you heal damage equal to your healing rate.
+**Repairing Damage** When you are a creature, you heal damage as any other creature. If you are an object, a creature can use an action to start repairing you with a tool kit. The creature must work for at least 4 hours. At the end of this time, it makes an [[Intellect]] [[challenge roll]] with 1 [[bane]]. On a success, you heal damage equal to your healing rate.
 
 ---
 
@@ -42,4 +42,4 @@ Clockworks are mechanical people made from metal plating, gears, wires, bits of 
 
 You either learn one spell or gain Grind the Gears. 
 
-**Grind the Gears:** You can increase the number of actions you can use on your turn by one. When you finish your turn, roll a d6. If you roll an odd number, you become an object at the end of the round.
+**Grind the Gears:** You can increase the number of [[action]]s you can use on your turn by one. When you finish your turn, roll a d6. If you roll an odd number, you become an object at the end of the round.

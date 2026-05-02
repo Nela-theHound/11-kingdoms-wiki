@@ -1,11 +1,11 @@
-# 
+# Sylphs
 
 
 ---
 
-# Creating a
+# Creating a Sylph
 
-**Starting [[Attribute]] Scores:**
+**Starting Attribute Scores:**
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
@@ -28,7 +28,7 @@
 
 ---
 
-## Level 4 Expert
+## Level 4 Expert Sylph
 
 **Characteristics:**
 

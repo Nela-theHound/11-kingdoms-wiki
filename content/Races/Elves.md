@@ -5,7 +5,7 @@
 
 # Creating an Elf
 
-**Starting Attribute Scores:** Choose 2 to increase by 1
+**Starting [[Attribute]] Scores:** Choose 2 to increase by 1
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
@@ -37,6 +37,6 @@
 
 ---
 
-## Level 4 Expert
+## Level 4 Expert Elf
 
 You either learn one spell or gain +4 Health

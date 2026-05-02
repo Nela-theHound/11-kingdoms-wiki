@@ -1,12 +1,12 @@
 # Dwarves
 
-Dwarfs live under the mountains in elaborate subterranean cities. From them, they launch expeditions deep into the earth to pry gold and silver from the unyielding rock. They hoard their treasures in great vaults and view other peoples with distrust, suspecting them all of coveting their wealth. The dwarfs have few friends and gain little aid when the forces of darkness overrun their strongholds to lay claim to their vaults. Thus many dwarfs wander the lands, homeless, friendless, searching for a new place to call their own
+Dwarfs live under the mountains in elaborate subterranean cities. From them, they launch expeditions deep into the earth to pry gold and silver from the unyielding rock. They hoard their treasures in great vaults and view other peoples with distrust, suspecting them all of coveting their wealth. 
 
 ---
 
 # Creating a Dwarf
 
-**Starting Attribute Scores:**
+**Starting [[Attribute]] Scores:**
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
@@ -28,9 +28,9 @@ Dwarfs live under the mountains in elaborate subterranean cities. From them, the
 
 **Darksight:** You can see in areas obscured by shadows or darkness within medium range as if those areas were lit. Beyond this distance, you treat darkness as shadows and shadows as lit. 
 
-**Hated Creature:** Choose a creature from the Hatred table. Your hatred grants 1 boon on attack rolls made against creatures you hate. 
+**Hated Creature:** Choose a creature from the Hatred table below. Your hatred grants 1 [[boon]] on attack rolls made against creatures you hate. 
 
-**Robust Constitution:** You take half damage from poison. You make challenge rolls with 1 boon to avoid or remove the poisoned affliction.
+**Robust Constitution:** You take half damage from poison. You make [[challenge roll]]s with 1 boon to avoid or remove the poisoned affliction.
 
 
 ---

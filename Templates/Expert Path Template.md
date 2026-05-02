@@ -1,6 +1,6 @@
 # Level 3
 
-**Attributes:** Increase 2 by 1
+**[[Attribute]]s:** Increase 2 by 1
 
 **Characteristics:** Health +
 

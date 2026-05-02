@@ -4,9 +4,9 @@ The Faerie Queen exiled the goblins long ago, for a crime only she remembers. As
 
 ---
 
-# Creating a
+# Creating a Goblin
 
-**Starting Attribute Scores:**
+**Starting [[Attribute]] Scores:**
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
@@ -32,7 +32,7 @@ The Faerie Queen exiled the goblins long ago, for a crime only she remembers. As
 
 **Shadowsight :** You see in areas obscured by shadows as if those areas were lit. 
 
-**Sneaky:** When you roll to become hidden or move silently, you make the Agility challenge roll with 1 boon.
+**Sneaky:** When you roll to become hidden or move silently, you make the [[Agility]] [[challenge roll]] with 1 [[boon]].
 
 ---
 
@@ -42,4 +42,4 @@ The Faerie Queen exiled the goblins long ago, for a crime only she remembers. As
 
 You either learn one spell or gain Spring Away
 
-**Spring Away:** When a creature you can see gets a failure on an attack roll against your Defense or Agility, you can use a triggered action to retreat.
+**Spring Away:** When a creature you can see gets a failure on an attack roll against your [[Defense]] or [[Agility]], you can use a [[triggered action]] to retreat.

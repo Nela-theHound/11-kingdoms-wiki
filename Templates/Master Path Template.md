@@ -1,6 +1,6 @@
 # Level 7
 
-**Attributes:**
+**[[Attribute]]s:**
 
 **Characteristics:** Health +
 

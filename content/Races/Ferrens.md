@@ -5,7 +5,7 @@
 
 # Creating a Ferren
 
-**Starting Attribute Scores:**
+**Starting [[Attribute]] Scores:**
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
@@ -45,7 +45,7 @@ While in cat form you apply the following changes to your stats:
 
 **Natural Weapons:** Your claws and teeth act as natural weapons that have the finesse property and deal 1 damage.
 
-**Extra Sneaky:** You make rolls to hide or sneak with 2 boons.
+**Extra Sneaky:** You make rolls to hide or sneak with 2 [[boon]]s.
 
 ---
 
@@ -66,6 +66,6 @@ You either learn one spell or gain Lynx Form.
 
 **Size** 1/2, **Speed** 12
 
-**Natural Weapons:** Your claws and teeth act as natural weapons that have the finesse property and deal 1d6 damage. When you attack with these weapons you make the attack roll with 1 boon.
+**Natural Weapons:** Your claws and teeth act as natural weapons that have the finesse property and deal 1d6 damage. When you attack with these weapons you make the [[attack]] roll with 1 [[boon]].
 
-**Sneaky:** You make rolls to hide or sneak with 2 boons.
+**Sneaky:** You make rolls to hide or sneak with 2 [[boon]]s.

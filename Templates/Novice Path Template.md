@@ -1,6 +1,6 @@
 # Level 1
 
-**Attributes:**
+**[[Attribute]]s:**
 
 **Characteristics:**
 
