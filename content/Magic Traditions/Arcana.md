@@ -69,6 +69,8 @@ Three magical darts fly from your fingertip, divided as you choose among the tar
 
 Each dart deals 1 damage to its target, then explodes in a 1-yard radius from a point within the target’s space. Everything in the area takes 1d6 + 1 damage, or half the damage with a success on an [[Agility]] [[challenge roll]].
 
+---
+
 ## Rank 3
 
 ### Arcane Lightning - Arcane Attack 3

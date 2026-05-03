@@ -14,11 +14,11 @@ Other religions produce clerics too. Among the orcs, for example, clerics speak 
 
 **Characteristics:** Health +4, Power +1
 
-**Language and Professions:** You can speak another language, add an academic area of knowledge, or add a religious profession.
+**Language and Professions:** You can speak another language, add an academic [[profession]], or add a religious [[profession]].
 
-**Magic:** You discover one tradition associated with your religion, as shown on the [[Religious Traditions Table]], or you learn one spell.
+**Magic:** You discover one [[tradition]] associated with your religion, as shown on the [[Religious Traditions Table]], or you learn one spell.
 
-**Conviction:** You make Will challenge rolls with 1 boon when you roll to resist the effects of frightening and horrifying traits.
+**Conviction:** You make [[Will]] [[challenge roll]]s with 1 [[boon]] when you roll to resist the effects of frightening and horrifying traits.
 
 **Icon of Faith:** Choose one tradition that you have already discovered and is associated with your religion. When you cast an attack spell from that tradition while you're wielding or wearing a holy symbol, you make the attack roll with 1 boon and creatures rolling to resist the attack make their challenge rolls with 1 bane.
 
