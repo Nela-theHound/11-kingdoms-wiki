@@ -31,7 +31,7 @@
 
 **Heat:** At the end of the round, each creature grabbed by you or that has grabbed you must make a [[Strength]] [[Challenge Roll]] or take 1d3 damage from the intense heat radiating from you.
 
-**Fiery Death:** When you die, flames burst from a point within your space out to a number of yards equal to your group level. Everything in the area takes damage equal to 1d6 + your group level. Each creature in the area that gets a success on an [[Agility]] [[Challenge Roll]] takes half the damage instead.
+**Fiery Death:** When you die, flames burst from a point within your [[space]] out to a number of yards equal to your group level. Everything in the area takes damage equal to 1d6 + your group level. Each creature in the area that gets a success on an [[Agility]] [[Challenge Roll]] takes half the damage instead.
 
 ---
 
