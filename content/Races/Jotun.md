@@ -50,7 +50,7 @@ Gain one of the following benefits:
 
 **Magic:** You increase your Power by 1, discover a tradition, and learn 1 spell from that tradition.
 
-**Weapon Training:** You make attack rolls with 1 [[Boon]] when you attack with a weapon.
+**Weapon Training:** You make attack rolls with 1 [[boon]] when you attack with a weapon.
 
 ---
 

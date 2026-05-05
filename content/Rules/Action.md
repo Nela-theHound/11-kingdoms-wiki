@@ -2,7 +2,7 @@
 
 You may use one action during a round to perform an activity. Common activities include the following: 
 
-- [[Attack]]
+- [[attack]]
 - Cast a [[Utility Spell]] 
 - [[Concentrate]] 
 - [[Defend]]
