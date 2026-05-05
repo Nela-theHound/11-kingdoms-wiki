@@ -16,7 +16,7 @@ Above all, druids see themselves as guardians of the natural world. They protect
 
 **Language and Professions:** You can speak another language or add a religious or wilderness profession.
 
-**Magic:** You discover the Life, Nature, or Primal tradition or you learn one spell from those traditions.
+**Magic:** You discover the [[Life]], [[Nature]], or [[Primal]] [[tradition]] or you learn one spell from those traditions.
 
 **Druid Mysteries:** You learned the ancient druidic mysteries as part of your initiation. You can do all of the following:
 - Identify any plant or animal you see

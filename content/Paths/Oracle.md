@@ -14,7 +14,7 @@ When in the throes of their possession, oracles manifest physical signs of the b
 
 **Language and Professions:** You can speak another language or add a profession.
 
-**Magic:** You discover one tradition associated with your religion, as shown on the [[Religious Traditions Table]], or you learn 1 spell.
+**Magic:** You discover one [[tradition]] associated with your religion, as shown on the [[Religious Traditions Table]], or you learn 1 spell.
 
 **Divine Ecstasy:** You can use an action to enter a state of divine ecstasy that lasts for 1 minute. You gain the following benefits for the duration:
 
@@ -24,7 +24,6 @@ When in the throes of their possession, oracles manifest physical signs of the b
 - You make Intellect, Will, and Perception attack rolls and challenge rolls with 1 boon.
 
 When this effect ends you must get a success on a Will challenge roll or gain 1 Insanity. You can use this talent a number of times equal to your Power. You replenish your uses when you complete a rest.
-
 
 ---
 

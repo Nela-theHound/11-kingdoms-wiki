@@ -12,7 +12,7 @@ Any religion or faith can produce paladins. Paladins affiliated with the cult of
 
 **Characteristics:** Health +4, Power +1
 
-**Magic:** You discover one tradition associated with your religion using the [[Religious Traditions Table]], or you learn 1 spell.
+**Magic:** You discover one [[tradition]] associated with your religion using the [[Religious Traditions Table]], or you learn 1 spell.
 
 **Divine Cause:** When you would make a challenge roll to resist an attack, you can expend the casting of a spell. You make the roll with a number of boons equal to the rank of the spell whose casting you expended (minimum 1 boon).
 

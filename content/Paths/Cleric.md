@@ -20,7 +20,7 @@ Other religions produce clerics too. Among the orcs, for example, clerics speak 
 
 **Conviction:** You make [[Will]] [[challenge roll]]s with 1 [[boon]] when you roll to resist the effects of frightening and horrifying traits.
 
-**Icon of Faith:** Choose one tradition that you have already discovered and is associated with your religion. When you cast an attack spell from that tradition while you're wielding or wearing a holy symbol, you make the attack roll with 1 boon and creatures rolling to resist the attack make their challenge rolls with 1 bane.
+**Icon of Faith:** Choose one [[tradition]] that you have already discovered and is associated with your religion. When you cast an attack spell from that tradition while you're wielding or wearing a holy symbol, you make the attack roll with 1 boon and creatures rolling to resist the attack make their challenge rolls with 1 bane.
 
 ---
 
@@ -41,4 +41,4 @@ Other religions produce clerics too. Among the orcs, for example, clerics speak 
 
 **Magic:** You learn 1 spell.
 
-**Divine Power:** The benefits of Icon of Faith apply to any attack spell you cast from a tradition associated with your religion.
+**Divine Power:** The benefits of Icon of Faith apply to any attack spell you cast from a [[tradition]] associated with your religion.
