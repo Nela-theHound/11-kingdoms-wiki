@@ -1,6 +1,6 @@
 # Dwarves
 
-Dwarfs live under the mountains in elaborate subterranean cities. From them, they launch expeditions deep into the earth to pry gold and silver from the unyielding rock. They hoard their treasures in great vaults and view other peoples with distrust, suspecting them all of coveting their wealth. 
+Dwarfs live under the mountains in elaborate subterranean cities. From them, they launch expeditions deep into the earth to pry gold and silver from the unyielding rock. In the past they hoarded their treasures in great vaults and viewed other peoples with distrust, suspecting them all of coveting their wealth. After the fall of the [[Dark Lord]], however, many of the Dwarves cities were overrun with undead and demons and so they have been pushed closer to the surface and even started intermingling with [[Humans]]. Now the two races work together to develop new technologies.
 
 ---
 
@@ -56,6 +56,6 @@ You either learn one spell or gain Shake it Off
 | 9-10  | Goblins        |
 | 11-12 | Elves          |
 | 13-14 | Trolls         |
-| 15-16 | Giants         |
+| 15-16 | Undead         |
 | 17-18 | Dragons        |
 | 19-20 | Demons         |

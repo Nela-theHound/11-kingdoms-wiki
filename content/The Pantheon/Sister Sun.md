@@ -1,0 +1,5 @@
+Sister Sun and [[Sister Moon]] are twin sisters of [[Father Sky]] and the [[World Mother]]. Sister Sun created humanity along with her lover Aster [[The Forgotten One]] but since the Asteron War, most have forgotten about him and attribute all of humanities creation with Sister Sun.
+
+She is known to be a loving a kind goddess and most humans worship her. She is symbolized as three suns, the dawn sun newly born, the midday sun burning bright, and the setting sun life extinguished that will return again. Her domains are life, rebirth, the sun, warmth, home and hearth, and family. Most folks have a shrine to her in their homes and will pray to her for good weather, healthy births, and healing for the sick.
+
+Her priests specialize in [[life]], [[protection]], [[theurgy]], and [[celestial]] traditions of magic.

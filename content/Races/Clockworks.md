@@ -1,6 +1,6 @@
 # Clockworks
 
-Clockworks are mechanical people made from metal plating, gears, wires, bits of spring, and cogs to which are bound a soul plucked from the Underworld. The magic binding the soul tethers it to the clockwork but allows it to manipulate the body only while its internal mechanisms are moving. All clockworks have keys somewhere on their body, and while wound up, they move, think, and act like creatures. Should the key wind down, a clockwork becomes dormant—an insensate object.
+Clockworks are mechanical people made from metal plating, gears, wires, bits of spring, and cogs to which are given life through [[mana]] crystals binding a soul to the machine. The magic binding the soul tethers it to the clockwork but allows it to manipulate the body only while its internal mechanisms are moving. All clockworks have keys somewhere on their body, and while wound up, they move, think, and act like creatures. Should the key wind down, a clockwork becomes dormant—an insensate object.
 
 ---
 

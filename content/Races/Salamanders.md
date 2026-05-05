@@ -1,5 +1,6 @@
 # Salamanders
 
+Salamanders are [[Elementals]] created by a massive mana crystal at the heart of a volcano. The are beings born from fire and are often said to be hot headed, rash, and ill tempered. Salamanders along with the other elementals are typically magic users a they were birthed from pure magic, and many know at least a couple [[Fire]] spells. Their fiery temperament also makes them great fighters and often they become [[Berserker]]s due to their heightened emotions.
 
 ---
 
