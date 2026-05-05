@@ -29,7 +29,7 @@
 
 **Shadowsight:** You see in areas obscured by shadows as if those areas were lit.
 
-**Skittish:** You make [[Will]] [[Challenge Roll]]s with 1 [[bane]].
+**Skittish:** You make [[Will]] [[Challenge Roll]]s with 1 [[Bane]].
 
 ---
 
@@ -39,4 +39,4 @@
 
 You either learn one spell or gain Fight or Flight.
 
-**Fight or Flight:** While you are frightened you gain a +2 bonus to Speed and you make [[Challenge Roll]] to resist attacks with 2 [[boon]]s. Also creatures make attack rolls against you with 1 [[bane]].
+**Fight or Flight:** While you are frightened you gain a +2 bonus to Speed and you make [[Challenge Roll]] to resist attacks with 2 [[Boon]]s. Also creatures make attack rolls against you with 1 [[Bane]].

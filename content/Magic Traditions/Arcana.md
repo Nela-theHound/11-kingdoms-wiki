@@ -29,9 +29,9 @@ A magical dart flies from your fingertip. The dart automatically hits, provided 
 
 **Duration:** 1 minute
 
-For the duration, a barrier of energy shields you, imposing 1 [[bane]] on attack rolls against your [[Defense]] or [[Agility]]. 
+For the duration, a barrier of energy shields you, imposing 1 [[Bane]] on attack rolls against your [[Defense]] or [[Agility]]. 
 
-**Triggered:** When a creature makes an attack roll against your [[Defense]] or [[Agility]], you can use a [[triggered action]] to cast this spell. The triggering creature makes the attack roll with 3 [[bane]]s, and then the effect ends.
+**Triggered:** When a creature makes an attack roll against your [[Defense]] or [[Agility]], you can use a [[triggered action]] to cast this spell. The triggering creature makes the attack roll with 3 [[Bane]]s, and then the effect ends.
 
 ---
 
@@ -57,7 +57,7 @@ Seven magical darts fly from your fingertip, divided as you choose among the tar
 
 **Duration:** 1 minute
 
-For the duration, when you cast an attack spell, you make any required [[attack]] roll with 1 [[boon]], and [[challenge roll]]s made to resist the spell’s effect are made with 1 [[bane]].
+For the duration, when you cast an attack spell, you make any required [[Attack]] roll with 1 [[Boon]], and [[challenge roll]]s made to resist the spell’s effect are made with 1 [[Bane]].
 
 ---
 

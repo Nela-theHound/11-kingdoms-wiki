@@ -50,7 +50,7 @@ Gain one of the following benefits:
 
 **Magic:** You increase your Power by 1, discover a tradition, and learn 1 spell from that tradition.
 
-**Weapon Training:** You make attack rolls with 1 [[boon]] when you attack with a weapon.
+**Weapon Training:** You make attack rolls with 1 [[Boon]] when you attack with a weapon.
 
 ---
 
@@ -62,7 +62,7 @@ Gain one of the following benefits:
 
 **Magic:** You discover a tradition or learn 1 spell from a tradition you know.
 
-**Blood of Giants:** Whenever you heal damage, you make [[Strength]] attack rolls and [[Challenge Roll]]s with 1 [[boon]] for 1 round.
+**Blood of Giants:** Whenever you heal damage, you make [[Strength]] attack rolls and [[Challenge Roll]]s with 1 [[Boon]] for 1 round.
 
 ---
 

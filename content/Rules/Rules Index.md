@@ -5,7 +5,7 @@
 - [[Ancestries]]
 - [[Area Effects]]
 - [[Armor]]
-- [[attack]]
+- [[Attack]]
 - [[Attribute]]
 - [[Awareness]]
 - 

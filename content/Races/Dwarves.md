@@ -28,7 +28,7 @@ Dwarfs live under the mountains in elaborate subterranean cities. From them, the
 
 **Darksight:** You can see in areas obscured by shadows or darkness within medium range as if those areas were lit. Beyond this distance, you treat darkness as shadows and shadows as lit. 
 
-**Hated Creature:** Choose a creature from the Hatred table below. Your hatred grants 1 [[boon]] on attack rolls made against creatures you hate. 
+**Hated Creature:** Choose a creature from the Hatred table below. Your hatred grants 1 [[Boon]] on attack rolls made against creatures you hate. 
 
 **Robust Constitution:** You take half damage from poison. You make [[challenge roll]]s with 1 boon to avoid or remove the poisoned affliction.
 

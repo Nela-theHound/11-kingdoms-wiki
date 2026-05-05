@@ -10,7 +10,7 @@ Chaos spells draw on destructive magic, making them unpredictable and dangerous.
 
 **Duration:** 1 minute 
 
-For the duration, you roll a chaos die (a d6) whenever you make an [[attack]] roll or a [[challenge roll]]. You apply an odd number as a penalty to the d20 roll and an even number as a bonus to the roll.
+For the duration, you roll a chaos die (a d6) whenever you make an [[Attack]] roll or a [[challenge roll]]. You apply an odd number as a penalty to the d20 roll and an even number as a bonus to the roll.
 
 ---
 

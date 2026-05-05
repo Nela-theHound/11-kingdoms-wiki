@@ -12,7 +12,7 @@ When you use a triggered action, you perform the indicated activity immediately,
 
 ### Free Attack
 
-When a creature in your reach willingly moves out of your reach, you can use a triggered action to make an [[attack]] against that creature using a melee weapon you are wielding.
+When a creature in your reach willingly moves out of your reach, you can use a triggered action to make an [[Attack]] against that creature using a melee weapon you are wielding.
 
 #### Trigger Example
 

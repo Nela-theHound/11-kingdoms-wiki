@@ -32,7 +32,7 @@ The Faerie Queen exiled the goblins long ago, for a crime only she remembers. As
 
 **Shadowsight :** You see in areas obscured by shadows as if those areas were lit. 
 
-**Sneaky:** When you roll to become hidden or move silently, you make the [[Agility]] [[challenge roll]] with 1 [[boon]].
+**Sneaky:** When you roll to become hidden or move silently, you make the [[Agility]] [[challenge roll]] with 1 [[Boon]].
 
 ---
 

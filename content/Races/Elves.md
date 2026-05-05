@@ -29,9 +29,9 @@
 
 **Shadowsight:** You see into areas obscured by shadows as if those areas were lit.
 
-**Spell Defense:** You take half damage from spells and you make any challenge roll to resist a spell with 1 [[boon]]. A creature attacking you with a spell makes the attack roll with 1 [[bane]]. If are in contact with iron you lose this trait for as long as you are in contact with it + 1 minute.
+**Spell Defense:** You take half damage from spells and you make any challenge roll to resist a spell with 1 [[Boon]]. A creature attacking you with a spell makes the attack roll with 1 [[Bane]]. If are in contact with iron you lose this trait for as long as you are in contact with it + 1 minute.
 
-**Bewitching Presence:** Your magical nature alters how others see you and behave around you. You make attack rolls in social situations with 1 [[boon]]. If are in contact with iron you lose this trait for as long as you are in contact with it + 1 minute.
+**Bewitching Presence:** Your magical nature alters how others see you and behave around you. You make attack rolls in social situations with 1 [[Boon]]. If are in contact with iron you lose this trait for as long as you are in contact with it + 1 minute.
 
 **Iron Vulnerability:** You are impaired while you are in contact with iron.
 

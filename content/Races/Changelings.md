@@ -42,4 +42,4 @@ Faerie create changelings to conceal the absence of children they steal. They co
 
 You either learn one spell or gain Doppelganger's Advantage.
 
-**Doppelganger's Advantage:** You can use a [[triggered action]] on your turn to use Steal Identity. As well, when you steal a creature’s identity, your attack rolls against that creature are made with 1 [[boon]] while you have that creature’s appearance.
+**Doppelganger's Advantage:** You can use a [[triggered action]] on your turn to use Steal Identity. As well, when you steal a creature’s identity, your attack rolls against that creature are made with 1 [[Boon]] while you have that creature’s appearance.

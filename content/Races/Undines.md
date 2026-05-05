@@ -45,4 +45,4 @@
 
 You either learn one spell or gain Water's Might
 
-**Water's Might:** When you use Flowing Step, you make attack rolls and [[challenge roll]]s with 1 [[boon]] for 1 round.
+**Water's Might:** When you use Flowing Step, you make attack rolls and [[challenge roll]]s with 1 [[Boon]] for 1 round.

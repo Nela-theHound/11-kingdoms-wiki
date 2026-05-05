@@ -22,7 +22,7 @@ You create a light breeze in the area, which moves with you for the duration. Th
 
 **Target:** One creature or object within short [[range]]
 
-A powerful wind assails the target. Make a [[Will]] [[attack]] roll against the target’s [[Strength]]. On a success, the wind moves the target 1d6 yards away from you.
+A powerful wind assails the target. Make a [[Will]] [[Attack]] roll against the target’s [[Strength]]. On a success, the wind moves the target 1d6 yards away from you.
 
 **Attack Roll 20+** The target falls prone at the end of this movement.
 
@@ -34,7 +34,7 @@ A powerful wind assails the target. Make a [[Will]] [[attack]] roll against the 
 
 **Area:** A cone 3 yards long originating from a point within short [[range]].
 
-A howling wind disperses vapors, fog, smoke, and gas from the area. Unprotected flames gutter out, and lightweight objects are blown to the nearest edge of the area. Each creature in the area must get a success on a [[Strength]] [[challenge roll]] or be moved 1d6 yards away from the origin point. Flying creatures make the roll with 1 [[bane]].
+A howling wind disperses vapors, fog, smoke, and gas from the area. Unprotected flames gutter out, and lightweight objects are blown to the nearest edge of the area. Each creature in the area must get a success on a [[Strength]] [[challenge roll]] or be moved 1d6 yards away from the origin point. Flying creatures make the roll with 1 [[Bane]].
 
 ---
 
@@ -42,7 +42,7 @@ A howling wind disperses vapors, fog, smoke, and gas from the area. Unprotected 
 
 **Target:** One creature or object within short [[range]].
 
-Windborne grit scours your target. Make a [[Will]] [[attack]] roll against the target’s [[Strength]]. On a success, the target takes 2d6 + 3 damage. A living creature that becomes incapacitated by this damage dies instantly, its flesh (if any) stripped from its bones. 
+Windborne grit scours your target. Make a [[Will]] [[Attack]] roll against the target’s [[Strength]]. On a success, the target takes 2d6 + 3 damage. A living creature that becomes incapacitated by this damage dies instantly, its flesh (if any) stripped from its bones. 
 
 **Attack Roll 20+** The target takes 2d6 extra damage.
 
@@ -93,7 +93,7 @@ You touch the target. It can fly at its normal Speed for the duration.
 
 **Area:** A cylinder, 4 yards tall with a radius of 4 yards, centered on a point within long [[range]]. 
 
-A powerful blast of wind erupts from the origin point. Each creature in the area must make a [[Strength]] [[challenge roll]]; Size 1 or smaller creatures make the roll with 1 [[bane]]. On a failure, it falls prone and is moved 5d6 yards away from the origin point. If it encounters a solid surface before moving the full distance, it and the surface it strikes each take 1d6 damage plus 1d6 extra damage per 5 yards remaining in this movement (round down).
+A powerful blast of wind erupts from the origin point. Each creature in the area must make a [[Strength]] [[challenge roll]]; Size 1 or smaller creatures make the roll with 1 [[Bane]]. On a failure, it falls prone and is moved 5d6 yards away from the origin point. If it encounters a solid surface before moving the full distance, it and the surface it strikes each take 1d6 damage plus 1d6 extra damage per 5 yards remaining in this movement (round down).
 
 ---
 
@@ -116,4 +116,4 @@ A powerful whirlwind appears at one end of the area and moves along and through 
 
 **Duration:** 1 minute 
 
-At the end of the round in which you cast this spell, the target cube becomes a Size 2 wind Elemental. You cannot voluntarily end this spell. When the Elemental appears, make a [[Will]] [[attack]] roll against its [[Will]]. The genie becomes compelled for the duration on a success, or becomes hostile to you on a failure.
+At the end of the round in which you cast this spell, the target cube becomes a Size 2 wind Elemental. You cannot voluntarily end this spell. When the Elemental appears, make a [[Will]] [[Attack]] roll against its [[Will]]. The genie becomes compelled for the duration on a success, or becomes hostile to you on a failure.

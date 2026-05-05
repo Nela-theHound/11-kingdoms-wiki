@@ -42,7 +42,7 @@ Fighters demonstrate their combat prowess with any weapon they wield, but most f
 
 ### Fighter Talents
 
-**Fight with Two Weapons:** When you [[attack]] with two weapons, you reduce the number of banes form the attack by 2.
+**Fight with Two Weapons:** When you [[Attack]] with two weapons, you reduce the number of banes form the attack by 2.
 
 **Haft Attack:** When you attack with a polearm or a staff, you can use a triggered action to attack with the other end of the weapon. Make the attack roll with 1 bane and the attack deals 1d6 damage.
 

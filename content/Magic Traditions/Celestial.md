@@ -10,7 +10,7 @@ Spells from the Celestial tradition call on the light and energy of the sun and 
 
 **Target:** One creature or object within medium [[range]] 
 
-A fiery beam leaps from your hand. Make a [[Will]] [[attack]] roll against the target’s [[Agility]]. On a success, the target takes 1d6 damage. 
+A fiery beam leaps from your hand. Make a [[Will]] [[Attack]] roll against the target’s [[Agility]]. On a success, the target takes 1d6 damage. 
 
 **Attack Roll 20+:** The target also becomes blinded for 1 round.
 
@@ -32,7 +32,7 @@ You touch the target, and light shines from it in a 5-yard radius for the durati
 
 **Target:** One sighted creature within short [[range]] 
 
-A flash of brilliant light appears before the target. Make a [[Will]] [[attack]] roll against the target’s [[Perception]]. On a success, the target becomes blinded for 1 round.
+A flash of brilliant light appears before the target. Make a [[Will]] [[Attack]] roll against the target’s [[Perception]]. On a success, the target becomes blinded for 1 round.
 
 **Attack Roll 20+:** The target instead becomes blinded for 1 minute.
 
@@ -72,7 +72,7 @@ Sunlight spreads through the area for the duration, ending magical shadows or da
 
 **Target:** Up to three creatures or objects within medium [[range]] 
 
-Three blazing beams fly from your hand, divided as you choose among the targets. For each beam, make a [[Will]] [[attack]] roll against the target’s [[Agility]]. On a success, the target takes 1d6 damage. If it can see, it also becomes impaired for 1 round. 
+Three blazing beams fly from your hand, divided as you choose among the targets. For each beam, make a [[Will]] [[Attack]] roll against the target’s [[Agility]]. On a success, the target takes 1d6 damage. If it can see, it also becomes impaired for 1 round. 
 
 **Attack Roll 20+:** The target takes 1d3 extra damage.
 

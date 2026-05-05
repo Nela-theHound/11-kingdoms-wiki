@@ -26,7 +26,7 @@ You touch the target. Provided it knows at least one language, you can communica
 
 **Duration:** 1 minute 
 
-You touch the target, causing it to appear indistinct. For the duration, when the target attempts to hide, it makes the [[Agility]] [[challenge roll]] with 1 [[boon]] and creatures that can see the target and attack its [[Defense]] or [[Agility]] make their [[attack]] rolls with 1 [[bane]].
+You touch the target, causing it to appear indistinct. For the duration, when the target attempts to hide, it makes the [[Agility]] [[challenge roll]] with 1 [[Boon]] and creatures that can see the target and attack its [[Defense]] or [[Agility]] make their [[Attack]] rolls with 1 [[Bane]].
 
 ---
 
@@ -38,7 +38,7 @@ You touch the target, causing it to appear indistinct. For the duration, when th
 
 **Duration:** 1 hour 
 
-You touch the target. For the duration, it gains a +5 bonus to [[Perception]] and can see in areas obscured by shadows or darkness as if those areas were lit; however, it makes [[challenge roll]]s with 1 [[bane]] to resist becoming blinded or deafened.
+You touch the target. For the duration, it gains a +5 bonus to [[Perception]] and can see in areas obscured by shadows or darkness as if those areas were lit; however, it makes [[challenge roll]]s with 1 [[Bane]] to resist becoming blinded or deafened.
 
 ---
 
@@ -70,7 +70,7 @@ You touch the target. For the duration, it can breathe water as easily as it bre
 
 **Duration:** 1 minute 
 
-You touch the target. Choose [[Strength]], [[Agility]], [[Intellect]], or [[Will]]. For the duration, when the target makes an [[attack]] roll or [[challenge roll]] using the chosen attribute, it makes the roll with 1 [[boon]].
+You touch the target. Choose [[Strength]], [[Agility]], [[Intellect]], or [[Will]]. For the duration, when the target makes an [[Attack]] roll or [[challenge roll]] using the chosen attribute, it makes the roll with 1 [[Boon]].
 
 ---
 
@@ -80,7 +80,7 @@ You touch the target. Choose [[Strength]], [[Agility]], [[Intellect]], or [[Will
 
 **Duration:** 1 minute 
 
-You touch the target. For the duration, the target gains a +5 bonus to Health, and [[attack]] rolls against the target are made with 1 [[bane]].
+You touch the target. For the duration, the target gains a +5 bonus to Health, and [[Attack]] rolls against the target are made with 1 [[Bane]].
 
 ---
 
@@ -96,7 +96,7 @@ You touch the target, which grows or shrinks and remains at its new Size for the
 
 If the target grows, its Size doubles and it gains a +10 bonus to Health. Its weapon attacks deal 1d6 extra damage if its new Size is 3 or less, or 2d6 extra damage if its new Size is 4 or more. If the space the target occupies is not large enough to accommodate its new Size, the target takes 5d6 damage and the effect ends immediately. 
 
-If the target shrinks, its Size is halved. It deals half damage with weapon attacks, makes [[Strength]] [[attack]] rolls and [[challenge roll]]s with 1 [[bane]], and makes [[Agility]] [[attack]] rolls and [[challenge roll]]s with 1 [[boon]].
+If the target shrinks, its Size is halved. It deals half damage with weapon attacks, makes [[Strength]] [[Attack]] rolls and [[challenge roll]]s with 1 [[Bane]], and makes [[Agility]] [[Attack]] rolls and [[challenge roll]]s with 1 [[Boon]].
 
 ---
 

@@ -45,7 +45,7 @@ While in cat form you apply the following changes to your stats:
 
 **Natural Weapons:** Your claws and teeth act as natural weapons that have the finesse property and deal 1 damage.
 
-**Extra Sneaky:** You make rolls to hide or sneak with 2 [[boon]]s.
+**Extra Sneaky:** You make rolls to hide or sneak with 2 [[Boon]]s.
 
 ---
 
@@ -66,6 +66,6 @@ You either learn one spell or gain Lynx Form.
 
 **Size** 1/2, **Speed** 12
 
-**Natural Weapons:** Your claws and teeth act as natural weapons that have the finesse property and deal 1d6 damage. When you attack with these weapons you make the [[attack]] roll with 1 [[boon]].
+**Natural Weapons:** Your claws and teeth act as natural weapons that have the finesse property and deal 1d6 damage. When you attack with these weapons you make the [[Attack]] roll with 1 [[Boon]].
 
-**Sneaky:** You make rolls to hide or sneak with 2 [[boon]]s.
+**Sneaky:** You make rolls to hide or sneak with 2 [[Boon]]s.

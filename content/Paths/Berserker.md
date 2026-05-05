@@ -15,7 +15,7 @@ The transformative power of a berserker’s rage might come from a variety of so
 **Berserk:** If you are not fatigued, when you take damage you can choose to go berserk. If you go berserk, you gain all of the following benefits and drawbacks for 1 minute or until you become unconscious.
 - You gain a +10 bonus to health
 - you cannot be charmed, compelled, or frightened
-- You make attack rolls with 1 [[bane]]
+- You make attack rolls with 1 [[Bane]]
 - Your attacks with weapons deal 2d6 extra damage
 - You must take a fast turn whenever possible and use an action on each of your turns to attack relying on a charge if necessary
 - When you stop going berserk you become fatigued for 1 minute and must get a success on a Will challenge roll or gain 1 insanity
@@ -30,7 +30,7 @@ The transformative power of a berserker’s rage might come from a variety of so
 
 **Characteristics:** Health +6
 
-**Ferocious Wrath:** While you are Berserk, you have a +2 to Speed and you make attack rolls against frightened targets with 1 [[boon]].
+**Ferocious Wrath:** While you are Berserk, you have a +2 to Speed and you make attack rolls against frightened targets with 1 [[Boon]].
 
 **Frightful Wrath:** When you go Berserk, each creature within short range who is not a member of your group must succeed a [[Will]] [[challenge roll]] or become frightened for 1 round.
 
@@ -40,4 +40,4 @@ The transformative power of a berserker’s rage might come from a variety of so
 
 **Characteristics:** Health +6
 
-**Reckless Strike:** When you attack with a melee weapon, you can choose to make the attack with 1 [[bane]] to deal 2d6 extra damage on a success.
+**Reckless Strike:** When you attack with a melee weapon, you can choose to make the attack with 1 [[Bane]] to deal 2d6 extra damage on a success.
