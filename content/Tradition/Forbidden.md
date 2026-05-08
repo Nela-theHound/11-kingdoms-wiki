@@ -100,19 +100,49 @@ The target experiences a sharp internal pain. Make an Intellect attack roll agai
 
 ---
 
-### 
+### Part Bone From Flesh - Forbidden Attack 3
 
+**Target:** One creature that has bones in its body within medium range 
 
+The target’s bones shift under its skin. Make an Intellect attack roll against its Strength. On a success, the target takes 6d6 damage. If the target becomes incapacitated by this damage, it dies instantly; its bones tear free from the flesh to become an **animated corpse** of the target’s Size that occupies its former space. The animated corpse attacks the creature nearest to it each round, choosing its target randomly if presented with multiple targets. 
+
+**Attack Roll 20+:** The target takes 2d6 extra damage.
 
 ---
 
 ## Rank 4
 
-###
+### Soul Exchange - Forbidden Attack 4
+
+**Target:** Two living mortal creatures within medium range 
+
+You grasp the targets’ souls. Make an Intellect attack roll against each target’s Will. On a success, the target becomes dazed for 1 minute. 
+
+**Attack Roll 20+:** The target also becomes stunned while it is dazed in this way. 
+
+**Special:** If you get a success against both targets, their souls permanently swap bodies. Each target gains 1d6 Insanity. Each soul brings the following to its new body, but otherwise uses the new body’s attributes, characteristics, and abilities: 
+- All languages and professions 
+- Intellect and Will scores (recalculate Perception if necessary)
+- Insanity and Corruption scores 
+- All talents 
+- All traditions it has discovered and all spells it knows
 
 
 ---
 
 ## Rank 5
 
-###
+### Horrid Joining - Forbidden Attack 5
+
+**Target:** Two creatures you can see within short range of each other and within medium range of you 
+
+The targets’ forms become indistinct for a moment. Make an Intellect attack roll against each target’s Strength. On a success, the target takes 3d6 damage and becomes impaired for 1 round.
+
+**Attack Roll 20+:** The target takes 3d6 extra damage. 
+
+**Special:** If you get a success against both targets, their bodies permanently merge to form a single creature, which becomes impaired until after it completes a rest. The merged creature’s appearance is up to you. The merged creature combines the attributes, characteristics, and other abilities of the targets as follows: 
+- It has the higher of the targets’ Strength and the lower of their Agility scores. Each target retains its own Intellect and Will. 
+- It gains 2d6 Insanity, replacing the targets’ Insanity scores (if any). The targets’ Corruption scores, if any, are added together. 
+- The targets occupy the same space, adding their Sizes together. Add together the higher of the targets’ Health and half the other target’s Health. The merged creature’s Speed becomes 6. 
+- The merged creature has the traits and talents of both targets, and it gains the horrifying trait if neither target already had that trait. 
+- Although they share one body, each target can take one turn each round. One must take a fast turn and the other a slow turn; if they can’t decide, each rolls a d6 and the high roller chooses.
