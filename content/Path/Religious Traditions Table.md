@@ -6,3 +6,4 @@
 | Noctism ([[Sister Moon]])                   | [[Alteration]], [[Shadow]],[[Celestial]], [[Divination]], [[Life]] |
 | Witchcraft                                  | [[Curse]], [[Enchantment]], [[Life]], [[Nature]]                   |
 | Primalism ([[Green God]], [[World Mother]]) | [[Nature]], [[Primal]], [[Life]], [[Chaos]]                        |
+| Industrialists                              | [[Technomancy]], [[Teleportation]], [[Rune]], [[Destruction]]      |
