@@ -32,7 +32,7 @@ The transformative power of a berserker’s rage might come from a variety of so
 
 **Ferocious Wrath:** While you are Berserk, you have a +2 to Speed and you make attack rolls against frightened targets with 1 [[Boon]].
 
-**Frightful Wrath:** When you go Berserk, each creature within short range who is not a member of your group must succeed a [[Will]] [[challenge roll]] or become frightened for 1 round.
+**Frightful Wrath:** When you go Berserk, each creature within short range who is not a member of your group must succeed a [[Will]] [[Challenge Roll]] or become frightened for 1 round.
 
 ---
 

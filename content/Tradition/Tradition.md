@@ -1,4 +1,4 @@
-# Traditions Index
+# Magic Traditions
 
 | Intellect         | Will               |
 | ----------------- | ------------------ |

@@ -54,7 +54,7 @@ As part of casting this spell, you make an attack with a weapon. You make the at
 
 **Target:** Each creature you choose that you can reach 
 
-You sweep your melee weapon around you in a deadly arc, dealing 3d6 + 3 damage to each target instead of the weapon’s normal damage. Each target takes half the damage with a success on an [[Agility]] [[challenge roll]].
+You sweep your melee weapon around you in a deadly arc, dealing 3d6 + 3 damage to each target instead of the weapon’s normal damage. Each target takes half the damage with a success on an [[Agility]] [[Challenge Roll]].
 
 ---
 
@@ -88,7 +88,7 @@ You move up to twice your Speed in a straight line. During this movement, you ca
 
 **Duration:** 1 hour 
 
-A wall of slashing swords forms in the area and remains for the duration. It totally covers everything behind it. When the wall appears, everything in the area takes 5d6 damage. A creature takes half the damage with a success on an [[Agility]] [[challenge roll]]. Creatures can move through the area, treating it as difficult terrain. When a creature enters the area from outside, or if it is inside the area at the end of the round, it must get a success on an Agility challenge roll or take 3d6 damage.
+A wall of slashing swords forms in the area and remains for the duration. It totally covers everything behind it. When the wall appears, everything in the area takes 5d6 damage. A creature takes half the damage with a success on an [[Agility]] [[Challenge Roll]]. Creatures can move through the area, treating it as difficult terrain. When a creature enters the area from outside, or if it is inside the area at the end of the round, it must get a success on an Agility challenge roll or take 3d6 damage.
 
 ---
 

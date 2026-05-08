@@ -12,7 +12,7 @@ Artificers push against the boundaries of magical research by merging science an
 
 **Language and Professions:** You can either speak another language or add one academic [[profession]].
 
-**Magic:** You discover a [[tradition]] or learn 1 spell.
+**Magic:** You discover a [[Tradition]] or learn 1 spell.
 
 **Artificer's Bag:** You have a bag filled with spare parts you use to create equipment you need. You measure the number of parts in gold crowns, though the parts are worthless to anyone other than you or another artificer. The gc value of these spare parts is equal to twice your group level. You can use an action to begin assembling parts from your bag into a suit of armor, a weapon, ammunition, or an engineering item by spending parts from the bag with a value equal to the item’s price. It takes 1 minute to create the object, during which time you must concentrate and use a tool kit. At the end of this time, you have a finished piece of equipment that remains until you complete a rest, at which point it collapses into spare parts once more. When you complete a rest, you replenish the parts in your Artificer’s Bag, up to your normal maximum value in gc. If you lose your Artificer’s Bag, you can create a replacement. It costs a number of gold crowns equal to your group’s level. You can have only one Artificer’s Bag at a time.
 
@@ -22,7 +22,7 @@ Artificers push against the boundaries of magical research by merging science an
 
 **Characteristics:** Health +2
 
-**Magic:** You discover a [[tradition]] or learn 1 spell.
+**Magic:** You discover a [[Tradition]] or learn 1 spell.
 
 **Store Spell:** You can use an action to touch one object you created from your Artificer’s Bag. If you concentrate for 1 minute, during which time you must maintain contact with the target, you can expend the casting of a spell and imbue the casting of that spell into the object. The casting remains in the object until you complete a rest or until it is expended. Any creature holding the object can use an action to expend the casting from the object and cast the spell, regardless of the creature’s [[Power]].
 
@@ -32,6 +32,6 @@ Artificers push against the boundaries of magical research by merging science an
 
 **Characteristics:** Health +2, Power +1
 
-**Magic:** You can discover a [[tradition]] or learn 1 spell.
+**Magic:** You can discover a [[Tradition]] or learn 1 spell.
 
 **Mechanical Servants:** You can use an action to create one or more small constructs using materials contained in your Artificer’s Bag. For each 1 gc in materials you spend, a compelled small construct appears in an open space within short range of you. You can grant the flier trait to any number of constructs by spending 1 extra gc from the bag for each construct you would make fly. The constructs remain until destroyed or until you complete a rest. At the end of this time, the mechanical servants collapse into parts.

@@ -1,6 +1,6 @@
 # Triggered Actions
 
-In addition to using [[action]]s, most creatures can use one triggered action each round. Creatures use triggered actions to react to the specific events that trigger their use, hence the name. 
+In addition to using [[Action]]s, most creatures can use one triggered action each round. Creatures use triggered actions to react to the specific events that trigger their use, hence the name. 
 
 Almost all creatures can use triggered actions to make a free attack, which is described in the following section. Creatures can also use triggered actions to perform other activities from talents and spells.
 

@@ -14,7 +14,7 @@ Most assassins take contracts to eliminate specific targets. Assassins can be fr
 
 **Language and Professions:** You can speak another language or add a common or criminal [[profession]].
 
-**Assassinate:** When a surprised creature or a creature from which you are hidden takes damage from your [[Attack]], it must make a [[Strength]] [[challenge roll]]. The target makes the roll with 1 [[Boon]] for each point of Size it is larger than you. On a failure, it takes damage equal to its health.
+**Assassinate:** When a surprised creature or a creature from which you are hidden takes damage from your [[Attack]], it must make a [[Strength]] [[Challenge Roll]]. The target makes the roll with 1 [[Boon]] for each point of Size it is larger than you. On a failure, it takes damage equal to its health.
 
 **Disguise Expertise:** If you have a disguise kit, you can use an action to expend a use from the kit to don a disguise.
 
@@ -34,4 +34,4 @@ Most assassins take contracts to eliminate specific targets. Assassins can be fr
 
 **Characteristics:** Health +3
 
-**Killer's Eye:** You can use an action on your turn to choose one creature within long range from which you are hidden. Make a [[Perception]] [[challenge roll]]. On a success, you know where to best attack the target for 1 minute, Until the effect ends, when you attack the target, you make your attack roll with 1 [[Boon]] and the attack deals 2d6 extra damage.
+**Killer's Eye:** You can use an action on your turn to choose one creature within long range from which you are hidden. Make a [[Perception]] [[Challenge Roll]]. On a success, you know where to best attack the target for 1 minute, Until the effect ends, when you attack the target, you make your attack roll with 1 [[Boon]] and the attack deals 2d6 extra damage.

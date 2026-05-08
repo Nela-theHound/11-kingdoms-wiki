@@ -1,4 +1,4 @@
-# 
+# Conjuration
 
 Conjuration spells create objects and creatures from threads of magical energy. The tradition requires a keen mind and a deft hand. Much Conjuration magic is recorded in tomes and grimoires, though understanding and discovering its power requires a skilled teacher. 
 

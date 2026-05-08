@@ -34,7 +34,7 @@ A powerful wind assails the target. Make a [[Will]] [[Attack]] roll against the 
 
 **Area:** A cone 3 yards long originating from a point within short [[range]].
 
-A howling wind disperses vapors, fog, smoke, and gas from the area. Unprotected flames gutter out, and lightweight objects are blown to the nearest edge of the area. Each creature in the area must get a success on a [[Strength]] [[challenge roll]] or be moved 1d6 yards away from the origin point. Flying creatures make the roll with 1 [[Bane]].
+A howling wind disperses vapors, fog, smoke, and gas from the area. Unprotected flames gutter out, and lightweight objects are blown to the nearest edge of the area. Each creature in the area must get a success on a [[Strength]] [[Challenge Roll]] or be moved 1d6 yards away from the origin point. Flying creatures make the roll with 1 [[Bane]].
 
 ---
 
@@ -74,7 +74,7 @@ For the duration, no sound emanates from or reaches into the area. Creatures in 
 
 **Area:** A sphere with a 10-yard radius centered on a point within medium [[range]]. 
 
-A wave of thunderous noise spreads out from the center of the area, dealing 1d6 + 1 damage to everything in it. Each creature in the area must make a [[Strength]] [[challenge roll]], taking half the damage on a success. On a failure, the creature also becomes deafened for 1 minute.
+A wave of thunderous noise spreads out from the center of the area, dealing 1d6 + 1 damage to everything in it. Each creature in the area must make a [[Strength]] [[Challenge Roll]], taking half the damage on a success. On a failure, the creature also becomes deafened for 1 minute.
 
 ---
 
@@ -93,7 +93,7 @@ You touch the target. It can fly at its normal Speed for the duration.
 
 **Area:** A cylinder, 4 yards tall with a radius of 4 yards, centered on a point within long [[range]]. 
 
-A powerful blast of wind erupts from the origin point. Each creature in the area must make a [[Strength]] [[challenge roll]]; Size 1 or smaller creatures make the roll with 1 [[Bane]]. On a failure, it falls prone and is moved 5d6 yards away from the origin point. If it encounters a solid surface before moving the full distance, it and the surface it strikes each take 1d6 damage plus 1d6 extra damage per 5 yards remaining in this movement (round down).
+A powerful blast of wind erupts from the origin point. Each creature in the area must make a [[Strength]] [[Challenge Roll]]; Size 1 or smaller creatures make the roll with 1 [[Bane]]. On a failure, it falls prone and is moved 5d6 yards away from the origin point. If it encounters a solid surface before moving the full distance, it and the surface it strikes each take 1d6 damage plus 1d6 extra damage per 5 yards remaining in this movement (round down).
 
 ---
 
@@ -103,7 +103,7 @@ A powerful blast of wind erupts from the origin point. Each creature in the area
 
 **Area:** A line, 20 yards long, 10 yards high, and 2 yards wide originating from a point within long [[range]].
 
-A powerful whirlwind appears at one end of the area and moves along and through it, dealing 3d6 damage to anything whose space it enters. Each unsecured object damaged in this way is moved 1d6 yards in a direction you choose. Each creature damaged in this way must make a [[Strength]] [[challenge roll]]. On a failure, it is moved 1d6 yards in a direction you choose and falls prone. On a success, it just takes half the damage.
+A powerful whirlwind appears at one end of the area and moves along and through it, dealing 3d6 damage to anything whose space it enters. Each unsecured object damaged in this way is moved 1d6 yards in a direction you choose. Each creature damaged in this way must make a [[Strength]] [[Challenge Roll]]. On a failure, it is moved 1d6 yards in a direction you choose and falls prone. On a success, it just takes half the damage.
 
 ---
 

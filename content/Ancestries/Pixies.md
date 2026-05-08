@@ -32,7 +32,7 @@ The quintessential wee folk, many Pixies use secret ways to flutter across the b
 
 **Naturally Invisible:** You are invisible to most creatures aside from other Pixies, animals, demons, faeries, monsters, children, creatures with an [[Intellect]] score of 7 or lower, and creatures with 5 [[Insanity]] or more can see you clearly. You lose this trait from noon to 1pm in the afternoon and from midnight to 1am in the morning as well as at dawn and dusk. If you come into contact with iron you lose this trait for 1 hour.
 
-**Glow:** You can use an [[action]] on your turn to become visible and illuminate the area within 2 yards of you. You remain visible until you use an action to become invisible again.
+**Glow:** You can use an [[Action]] on your turn to become visible and illuminate the area within 2 yards of you. You remain visible until you use an action to become invisible again.
 
 **Shadowsight:** You see into areas obscured by shadows as if those areas were lit.
 

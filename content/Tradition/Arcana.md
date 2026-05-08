@@ -57,7 +57,7 @@ Seven magical darts fly from your fingertip, divided as you choose among the tar
 
 **Duration:** 1 minute
 
-For the duration, when you cast an attack spell, you make any required [[Attack]] roll with 1 [[Boon]], and [[challenge roll]]s made to resist the spell’s effect are made with 1 [[Bane]].
+For the duration, when you cast an attack spell, you make any required [[Attack]] roll with 1 [[Boon]], and [[Challenge Roll]]s made to resist the spell’s effect are made with 1 [[Bane]].
 
 ---
 
@@ -67,7 +67,7 @@ For the duration, when you cast an attack spell, you make any required [[Attack]
 
 Three magical darts fly from your fingertip, divided as you choose among the targets. Each dart automatically hits provided there is an unobstructed path between you and the target.
 
-Each dart deals 1 damage to its target, then explodes in a 1-yard radius from a point within the target’s space. Everything in the area takes 1d6 + 1 damage, or half the damage with a success on an [[Agility]] [[challenge roll]].
+Each dart deals 1 damage to its target, then explodes in a 1-yard radius from a point within the target’s space. Everything in the area takes 1d6 + 1 damage, or half the damage with a success on an [[Agility]] [[Challenge Roll]].
 
 ---
 
@@ -77,7 +77,7 @@ Each dart deals 1 damage to its target, then explodes in a 1-yard radius from a 
 
 **Area:** A cone, 5 yards long, originating from a point you can reach.
 
-Lightning deals 5d6 damage to everything in the area. Each creature in the area must make an [[Agility]] [[challenge roll]], taking half the damage on a success.
+Lightning deals 5d6 damage to everything in the area. Each creature in the area must make an [[Agility]] [[Challenge Roll]], taking half the damage on a success.
 
 ---
 
@@ -103,6 +103,6 @@ Roll 1d6 + 3 to determine how many points of magical energy you harness. You ret
 
 **Duration:** 4 hours; see effect
 
-You gain a +5 bonus to [[Defense]] for the duration. The next time a creature within short range of you would get a success on an attack roll with a weapon against you, this effect ends and the success automatically becomes a failure. The triggering creature must make a [[Strength]] [[challenge roll]]. On a failure, it takes 10d6 damage, is moved 2d6 yards away from you, and falls prone. It takes half the damage on a success.
+You gain a +5 bonus to [[Defense]] for the duration. The next time a creature within short range of you would get a success on an attack roll with a weapon against you, this effect ends and the success automatically becomes a failure. The triggering creature must make a [[Strength]] [[Challenge Roll]]. On a failure, it takes 10d6 damage, is moved 2d6 yards away from you, and falls prone. It takes half the damage on a success.
 
 

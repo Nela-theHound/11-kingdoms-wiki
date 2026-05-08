@@ -30,7 +30,7 @@ Dwarfs live under the mountains in elaborate subterranean cities. From them, the
 
 **Hated Creature:** Choose a creature from the Hatred table below. Your hatred grants 1 [[Boon]] on attack rolls made against creatures you hate. 
 
-**Robust Constitution:** You take half damage from poison. You make [[challenge roll]]s with 1 boon to avoid or remove the poisoned affliction.
+**Robust Constitution:** You take half damage from poison. You make [[Challenge Roll]]s with 1 boon to avoid or remove the poisoned affliction.
 
 
 ---
