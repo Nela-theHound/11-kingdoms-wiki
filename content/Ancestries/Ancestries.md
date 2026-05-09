@@ -3,6 +3,8 @@
 - Humanity
 	- [[Humans]]
 	- [[Ferrens]]
+	- [[Halflings]] 
+	- [[Revenants]]
 - Fey
 	- [[Elves]]
 	- [[Changelings]]
@@ -18,9 +20,6 @@
 	- [[Salamanders]]
 	- [[Undines]]
 - [[Clockworks]]
-- Undead
-	- [[Vampires]]
-	- [[Revenants]]
 - Giants
 	- [[Jotun]]
 	- [[Orcs]]
