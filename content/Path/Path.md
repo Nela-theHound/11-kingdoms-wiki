@@ -50,74 +50,43 @@
 
 ### Paths of Magic
 
-| Path             | Mastery               |
-| ---------------- | --------------------- |
-| [[Abjurer]]      | Protection spells     |
-| [[Aeromancer]]   | Air spells            |
-| [[Apocalyptist]] | Forbidden spells      |
-| [[Arcanist]]     | Arcana spells         |
-| [[Astromancer]]  | Celestial Spells      |
-| [[Bard]]         | Song spells           |
-| [[Beastmaster]]  | Primal spells         |
-| [[Chronomancer]] | Time spells           |
-| [[Conjurer]]     | Conjuration spells    |
-| [[Destroyer]]    | Destruction spells    |
-| [[Diviner]]      | Divination spells     |
-| [[Enchanter]]    | Enchantment spells    |
-| [[Geomancer]]    | Earth spells          |
-| [[Healer]]       | Life spells           |
-| [[Hexer]]        | Curse spells          |
-| [[Hydromancer]]  | Water spells          |
-| [[Illusionist]]  | Illusion spells       |
-| [[Mage Knight]]  | Battle spells         |
-| [[Magus]]        | Implements            |
-| [[Necromancer]]  | Necromancy spells     |
-| [[Pyromancer]]   | Fire spells           |
-| [[Runesmith]]    | Rune spells           |
-| [[Savant]]       | Magic                 |
-| [[Shapeshifter]] | Transformation spells |
-| [[Stormbringer]] | Storm spells          |
-| [[Technomancer]] | Technomancy spells    |
-| [[Tenebrist]]    | Shadow spells         |
-| [[Thaumaturge]]  | Chaos spells          |
-| [[Theurgu]]      | Theurgy spells        |
-| [[Transmuter]]   | Alteration spells     |
-| [[Traveler]]     | Teleportation spells  |
-| [[Woodwose]]     | Nature spells         |
+| Path             | Mastery            | Path             | Mastery               |
+| ---------------- | ------------------ | ---------------- | --------------------- |
+| [[Abjurer]]      | Protection spells  | [[Illusionist]]  | Illusion spells       |
+| [[Aeromancer]]   | Air spells         | [[Mage Knight]]  | Battle spells         |
+| [[Apocalyptist]] | Forbidden spells   | [[Magus]]        | Implements            |
+| [[Arcanist]]     | Arcana spells      | [[Necromancer]]  | Necromancy spells     |
+| [[Astromancer]]  | Celestial Spells   | [[Pyromancer]]   | Fire spells           |
+| [[Bard]]         | Song spells        | [[Runesmith]]    | Rune spells           |
+| [[Beastmaster]]  | Primal spells      | [[Savant]]       | Magic                 |
+| [[Chronomancer]] | Time spells        | [[Shapeshifter]] | Transformation spells |
+| [[Conjurer]]     | Conjuration spells | [[Stormbringer]] | Storm spells          |
+| [[Destroyer]]    | Destruction spells | [[Technomancer]] | Technomancy spells    |
+| [[Diviner]]      | Divination spells  | [[Tenebrist]]    | Shadow spells         |
+| [[Enchanter]]    | Enchantment spells | [[Thaumaturge]]  | Chaos spells          |
+| [[Geomancer]]    | Earth spells       | [[Theurgu]]      | Theurgy spells        |
+| [[Healer]]       | Life spells        | [[Transmuter]]   | Alteration spells     |
+| [[Hexer]]        | Curse spells       | [[Traveler]]     | Teleportation spells  |
+| [[Hydromancer]]  | Water spells       | [[Woodwose]]     | Nature spells         |
+
 ### Paths of Skill
 
+| Path             | Mastery                      | Path                   | Mastery                          |
+| ---------------- | ---------------------------- | ---------------------- | -------------------------------- |
+| [[Acrobat]]      | Movement and maneuverability | [[Exorcist]]           | Casting out evil spirits         |
+| [[Avenger]]      | Getting revenge              | [[Explorer']]          | Survival                         |
+| [[Blade]]        | Knife-fighting               | [[Gladiator]]          | Dirty fighting                   |
+| [[Brute]]        | Strength and toughness       | [[Gunslinger]]         | Pistols and rifles               |
+| [[Cavalier]]     | Mounted Combat               | [[Infiltrator]]        | Spying                           |
+| [[Champion]]     | Fighting for causes          | [[Inquisitor]]         | Exposing corruption              |
+| [[Chaplain]]     | Spiritual leader             | [[Jack-of-All-Trades]] | none                             |
+| [[Conqueror]]    | Tactics                      | [[Marauder]]           | Creating carnage                 |
+| [[Death Dealer]] | Heavy Weapons                | [[Miracle Worker]]     | Performing miracles              |
+| [[Defender]]     | Protecting others            | [[Myrmidon]]           | Fighting with shields            |
+| [[Dervish]]      | Duel wielding                | [[Poisoner]]           | Using poisons                    |
+| [[Diplomat]]     | Negotiation and persuasion   | [[Sentinal]]           | Perception                       |
+| [[Dreadnaught]]  | Heavy armor                  | [[Sharpshooter]]       | Bows and crossbows               |
+| [[Duelist]]      | Dueling                      | [[Templar]]            | Making and protecting holy sites |
+| [[Engineer]]     | Creating automatons          | [[Weapon Master]]      | Fighting with a weapon           |
+| [[Executioner]]  | Murder                       | [[Zealot]]             | Insanity                         |
 
-| Path                   | Mastery                          |
-| ---------------------- | -------------------------------- |
-| [[Acrobat]]            | Movement and maneuverability     |
-| [[Avenger]]            | Getting revenge                  |
-| [[Blade]]              | Knife-fighting                   |
-| [[Brute]]              | Strength and toughness           |
-| [[Cavalier]]           | Mounted Combat                   |
-| [[Champion]]           | Fighting for causes              |
-| [[Chaplain]]           | Spiritual leader                 |
-| [[Conqueror]]          | Tactics                          |
-| [[Death Dealer]]       | Heavy Weapons                    |
-| [[Defender]]           | Protecting others                |
-| [[Dervish]]            | Duel wielding                    |
-| [[Diplomat]]           | Negotiation and persuasion       |
-| [[Dreadnaught]]        | Heavy armor                      |
-| [[Duelist]]            | Dueling                          |
-| [[Engineer]]           | Creating automatons              |
-| [[Executioner]]        | Murder                           |
-| [[Exorcist]]           | Casting out evil spirits         |
-| [[Explorer']]          | Survival                         |
-| [[Gladiator]]          | Dirty fighting                   |
-| [[Gunslinger]]         | Pistols and rifles               |
-| [[Infiltrator]]        | Spying                           |
-| [[Inquisitor]]         | Exposing corruption              |
-| [[Jack-of-All-Trades]] | none                             |
-| [[Marauder]]           | Creating carnage                 |
-| [[Miracle Worker]]     | Performing miracles              |
-| [[Myrmidon]]           | Fighting with shields            |
-| [[Poisoner]]           | Using poisons                    |
-| [[Sentinal]]           | Perception                       |
-| [[Sharpshooter]]       | Bows and crossbows               |
-| [[Templar]]            | Making and protecting holy sites |
-| [[Weapon Master]]      | Fighting with a weapon           |
-| [[Zealot]]             | Insanity                         |
