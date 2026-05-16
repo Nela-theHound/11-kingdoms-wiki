@@ -6,7 +6,7 @@ on:
       - v4
 
 env:
-  THEME_NAME: fancy-a-story
+  THEME_NAME: hidden-grotto
   
 permissions:
   contents: read
