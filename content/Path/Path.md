@@ -56,6 +56,7 @@
 | [[Aeromancer]]   | Air spells            |
 | [[Apocalyptist]] | Forbidden spells      |
 | [[Arcanist]]     | Arcana spells         |
+| [[Astromancer]]  | Celestial Spells      |
 | [[Bard]]         | Song spells           |
 | [[Beastmaster]]  | Primal spells         |
 | [[Chronomancer]] | Time spells           |
@@ -105,7 +106,7 @@
 | [[Engineer]]           | Creating automatons              |
 | [[Executioner]]        | Murder                           |
 | [[Exorcist]]           | Casting out evil spirits         |
-| [[Explorerr]]          | Survival                         |
+| [[Explorer']]          | Survival                         |
 | [[Gladiator]]          | Dirty fighting                   |
 | [[Gunslinger]]         | Pistols and rifles               |
 | [[Infiltrator]]        | Spying                           |
