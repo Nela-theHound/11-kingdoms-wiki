@@ -33,7 +33,7 @@ Above all, druids see themselves as guardians of the natural world. They protect
 
 **Magic:** You learn 1 spell.
 
-**Tree Walker:** Once per round while you are moving, you can move into a space occupied by a living tree and immediately exit from a space occupied nu a tree within medium range of the tree whose space you entered. You can choose to exit from the tree you entered, moving into an open space.
+**Tree Walker:** Once per round while you are moving, you can move into a space occupied by a living tree and immediately exit from a space occupied by a tree within medium range of the tree whose space you entered. You can choose to exit from the tree you entered, moving into an open space.
 
 ---
 
