@@ -7,3 +7,4 @@
 | Witchcraft                                  | [[Curse]], [[Enchantment]], [[Life]], [[Nature]]                   |
 | Primalism ([[Green God]], [[World Mother]]) | [[Nature]], [[Primal]], [[Life]], [[Chaos]]                        |
 | Industrialists                              | [[Technomancy]], [[Teleportation]], [[Rune]], [[Destruction]]      |
+| Blood for the Blood God ([[Blood God]])     | [[Fire]], [[Destruction]], [[Chaos]], [[Battle]]                   |

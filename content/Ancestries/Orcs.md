@@ -2,7 +2,7 @@
 
 Once used as slaves by humans, they were forced to live and toil in the inhospitable lands of "insert name here", where rich mana stone and metal deposits were located. During the first appearance of the [[Dark Lord]] the Orcs took advantage of the chaos and overthrew their masters, and declared independence. Despite the scarcity of the lands the Orcish kingdom is one of the wealthiest due to their mana stone trade and although their craftsmanship is not as renown as the [[Dwarves]], they are known for quality steel products.
 
-Their capital city is Botar, named after the leader of the revolution that freed the Orcs from their human captors.
+Lofar Bloodroar is the lieutenant of the leader of the warrior clan, Marbesh. 50 years ago war broke out with the Dwarves when the dwarves blockaded the orc trade ships. In retaliation the orcs invaded the Dwarvish kingdom. An attack on their capital lead by the leader of the warrior clan and Lofar lead to them capturing the first princess. With a political prisoner the orcs were able to negotiate the end of the blockade, however during her time in the orc lands the princess fell in love with the leader of the warrior clan and they married to seal the treaty between the two kingdoms. Dutok Half dwarf-orc 
 
 ---
 

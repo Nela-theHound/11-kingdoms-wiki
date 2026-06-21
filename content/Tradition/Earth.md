@@ -1,6 +1,6 @@
 # Earth
 
-This tradition grants power over stone and soil, and those who master it can compel the earth beneath their feet to obey their commands. Earth magic arises from genies dwelling in the bones of the land, high mountains, rolling hills, and shifting deserts. Practitioners of this tradition gradually assume a stony appearance.
+This tradition grants power over stone and soil, and those who master it can compel the earth beneath their feet to obey their commands. Earth magic arises from elementals dwelling in the bones of the land, high mountains, rolling hills, and shifting deserts. Practitioners of this tradition gradually assume a stony appearance.
 
 ---
 

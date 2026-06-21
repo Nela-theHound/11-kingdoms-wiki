@@ -1,5 +1,8 @@
 # Elves
 
+The lords and ladies of the [[Fae]], descended from the [[Summer Queen]] herself and shaped in her image. Most elves have few grand ambitions, content to pass the centuries in pleasure, perhaps capturing the breathtaking vistas of the [[Summer Isles]] on canvas or in verse, coupling with lovers under a sea of glistering stars, or dancing, drinking, and feasting on the bounty stolen from the mortal lands.
+
+After the first emergence of the [[Dark Lord]] and their second queen going missing, the Elves decided to shut themselves off from the rest of the mortal world by enshrouding their islands in a magical barrier of mist and clouds. Occasionally sailors will find  themselves lost in this mist and end up sailing in circles for weeks, until eventually finding their way out. To this day no one has been able to enter the Elven lands without the permission of the Elves.
 
 ---
 
