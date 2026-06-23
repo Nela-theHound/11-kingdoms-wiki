@@ -22,7 +22,7 @@ After the first emergence of the [[Dark Lord]] and their second queen going miss
 
 **Healing Rate** equals 1/4 your Health rounded down
 
-**Size** 1, **Speed** 1/2, **Power** 0 
+**Size** 1, **Speed** 12, **Power** 0 
 
 **Damage** 0, **Insanity** 0, **Corruption** 0 
 

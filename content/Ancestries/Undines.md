@@ -33,9 +33,9 @@
 
 **Fire Intollerent:** You take double damage from fire. When you take damage from fire you also become impaired for 1 round.
 
-**Watery Death:** When you die, you collapse into a pool of water and spread across a flat surface out to a 3 yard radius. The water extingushes all flames, and each creature standing in the area much get a success on an [[Agility]] [[Challenge Roll]] or fall prone.
+**Watery Death:** When you die, you collapse into a pool of water and spread across a flat surface out to a 3 yard radius. The water extinguishes all flames, and each creature standing in the area much get a success on an [[Agility]] [[Challenge Roll]] or fall prone.
 
-**Flowing Step:** You can use an action to assume a watery form, move up to your speed and return to your normal form. This movement does not trigger free attacks. As well, during this movement, you take half damage from weapons and you can move through spaces occupied by other creatures.
+**Flowing Step:** You can use an action, or triggered action on your turn, to assume a watery form, move up to your speed and return to your normal form. This movement does not trigger free attacks. As well, during this movement, you take half damage from weapons and you can move through spaces occupied by other creatures.
 
 ---
 
