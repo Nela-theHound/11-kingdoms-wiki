@@ -70,4 +70,22 @@ Gain one of the following benefits:
 
 **Characteristics:** Health +6
 
-**Titan's Strike:**
+**Titan's Strike:** When the total of your attack roll is 20+ and exceeds the target by at least 5, the target takes 1d6 extra damage and must get a success on a Strength challenge roll or fall prone.
+
+Gain one of the following benefits:
+
+**Magic:** You increase your Power by 1 and either discover a new tradition or learn a spell from a tradition you already know.
+
+**Combat Prowess:** Your attacks with weapons deal 1d6 extra damage.
+
+---
+
+## Level 8 Master Jotun
+
+**Characteristics:** Health +6
+
+Gain one of the following benefits:
+
+**Magic:** You either discover a new tradition or learn a spell from a tradition you already know.
+
+**Combat Expertise:** When you use an action to attack with a weapon you can either deal 1d6 extra damage with that attack or make another attack against a different target before your turn ends.

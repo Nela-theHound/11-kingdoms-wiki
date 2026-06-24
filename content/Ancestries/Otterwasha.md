@@ -43,4 +43,4 @@
 
 You either learn one spell or gain Lithe Body
 
-**Lithe Body:** When you are hit with an attack you can use your triggered action to reduce the damage by 1d6 and move up to your speed without triggering attacks of opportunity.
+**Lithe Body:** When you are hit with an attack you can use your triggered action to reduce the damage by 1d6 and move up to your speed without triggering attacks of opportunity. You can use this ability an amount of times equal to your Power +1.

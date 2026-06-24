@@ -21,7 +21,7 @@ Four attributes describe your character’s fundamental capabilities. They are S
 
 ## Professions
 
-All players start with 2 [[Profession]]s and might gain more depending on their ancestry or [[Path]]. Professions describe what your character knows how to do and how your character fits into the setting. They act as cues to help you decide how your character acts, what your character can do, and what things your character knows. The Game Master will sometimes look to your professions to judge whether an activity you describe results in a success or failure. A profession could grant a success or it might grant 1 or more [[Boon]]s to your roll if the outcome isn’t clear. 
+All players start with 2 [[Profession]]s and might gain more depending on their ancestry or [[Available Paths]]. Professions describe what your character knows how to do and how your character fits into the setting. They act as cues to help you decide how your character acts, what your character can do, and what things your character knows. The Game Master will sometimes look to your professions to judge whether an activity you describe results in a success or failure. A profession could grant a success or it might grant 1 or more [[Boon]]s to your roll if the outcome isn’t clear. 
 
 Since a profession can be anything that involves a lifestyle or occupation, you can substitute other professions for the ones listed here. Rather than become a comedian, for example, you could be a clown or a mime. You can substitute chimney-sweep for laborer or pastry chef for cook. Before making a substitution, talk to your GM to make sure it is appropriate for the game.
 
@@ -55,4 +55,4 @@ You start with equipment based on your character’s wealth. To determine your w
 
 ## Level 1 Paths
 
-At level 1 you will pick your first [[Path]]. You'll be able to choose from one of the four Novice Paths of [[Magician]], [[Priest]], [[Rogue]], or [[Warrior]], these starting Paths are broad and
+At level 1 you will pick your first [[Available Paths]]. You'll be able to choose from one of the four Novice Paths of [[Magician]], [[Priest]], [[Rogue]], or [[Warrior]], these starting Paths are broad and

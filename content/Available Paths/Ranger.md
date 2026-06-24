@@ -18,7 +18,7 @@ Rangers come from all backgrounds. Warriors might become rangers after fighting 
 
 **Alertness:** You make Perception rolls with 1 boon. In addition you cannot be surprised while you are conscious.
 
-**Hunt Prey:** You can use an action or a triggered action on your turn to designate one creature you can see as your pre. The target remains your prey until you use this talent again, become unconscious, or you complete a rest. Your prey grants you 1 boon on attack rolls you make against it and challenge rolls you make to track it.
+**Hunt Prey:** You can use an action or a triggered action on your turn to designate one creature you can see as your prey. The target remains your prey until you use this talent again, become unconscious, or you complete a rest. Your prey grants you 1 boon on attack rolls you make against it and challenge rolls you make to track it.
 
 **Natural Lore:** You make challenge rolls to recall useful information about animals, plants, geography, and nature with 1 boon.
 

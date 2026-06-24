@@ -12,7 +12,7 @@ Beastmasters master the secrets of Primal magic to forge bonds with animals they
 
 **Languages and Professions:** You can speak another language or add a wilderness profession. 
 
-**Magic:** You discover the Primal tradition or learn one Primal spell. 
+**Magic:** You discover the [[Primal]] tradition or learn one Primal spell. 
 
 **Primal Beast:** When you cast the beast within spell, the bonus to Speed increases by 2, and the extra damage from your attacks with unarmed strikes and natural weapons increases by 1d6. 
 

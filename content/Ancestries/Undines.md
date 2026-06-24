@@ -31,7 +31,7 @@
 
 **Water Breathing:** You can breath air and water.
 
-**Fire Intollerent:** You take double damage from fire. When you take damage from fire you also become impaired for 1 round.
+**Fire Intolerant:** You take double damage from fire. When you take damage from fire you also become impaired for 1 round.
 
 **Watery Death:** When you die, you collapse into a pool of water and spread across a flat surface out to a 3 yard radius. The water extinguishes all flames, and each creature standing in the area much get a success on an [[Agility]] [[Challenge Roll]] or fall prone.
 

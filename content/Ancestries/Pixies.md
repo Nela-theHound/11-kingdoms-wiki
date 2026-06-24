@@ -38,7 +38,7 @@ The quintessential wee folk, many Pixies use secret ways to flutter across the b
 
 **Iron Vulnerability:** You are impaired while in contact with iron.
 
-**Wee:** Your weapon attacks deal half damage. Whenever you increase your health from a [[Path]], you increase your health score by half the given amount.
+**Wee:** Your weapon attacks deal half damage. Whenever you increase your health from a [[Available Paths]], you increase your health score by half the given amount.
 
 
 ---
