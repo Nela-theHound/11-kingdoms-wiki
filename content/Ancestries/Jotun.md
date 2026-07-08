@@ -9,7 +9,7 @@
 
 | Str | Agi | Int | Will |
 | --- | --- | --- | ---- |
-| 13  | 9   | 8   | 10   |
+| 13  | 9   | 9   | 10   |
 
 **Perception** equals your Intellect score 
 
